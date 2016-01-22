@@ -29,9 +29,6 @@ Assume that the location of the service centers are stored in a JSON file.
 Implementation of [Fibonacci Heap](https://github.com/ksang) by Ksang
 I initially included the Fibonacci Heap into the implementation due to Fredman and Tarjan (1987). However, I ran into the same problem as Cook (2012) for the fact that this particular implementation of the Fibonacci Heap needs a *find* operation for it to work with Dijsktra's algorithm, which will defeat the purpose of a smaller big O. Therefore, In the current implementation, a binary heap is used.
 
-## visualize.r
-Visualize the shortest routes from given six service centers
-
 
 ## References
 Cook, Mary Rose. "The Fibonacci Heap Ruins My Life." Weblog post. Mary Rose Cook. N.p., 7 Aug. 2012. Web. 22 Jan. 2016.
