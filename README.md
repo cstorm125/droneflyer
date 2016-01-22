@@ -1,6 +1,7 @@
 # droneflyer
 Answer to CodeStar question
 
+![Service Centers](https://cloud.githubusercontent.com/assets/15519308/12521225/fabaaad0-c17b-11e5-95ba-cf43942b9155.png)
 ## answer.py
 To run
 ```
